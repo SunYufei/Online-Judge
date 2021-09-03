@@ -1,4 +1,4 @@
-package leetcode.editor.cn;
+package LeetCode.Java.node;
 
 /**
  * @author LeetCode
